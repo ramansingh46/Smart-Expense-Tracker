@@ -125,7 +125,7 @@ Deployment (Render / Railway)
 
 👨‍💻 Author
 
-Jeyaprakash A
+Raman Singh
 
 ⭐ Support
 
